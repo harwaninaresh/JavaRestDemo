@@ -1,4 +1,4 @@
-Rest API interface using Jersey , done by Poonam  Agarwal.
+Rest API interface using Jersey
 
 
 It uses:
